@@ -1,2 +1,0 @@
-наш список
-bhhhhhijoiiivunvfn
