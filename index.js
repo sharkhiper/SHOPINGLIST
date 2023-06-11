@@ -20,15 +20,15 @@ function addListItem(){
   
 }
  
-let user = {
-  n: "Vasya",
-  age: 33
-}
-let admin = {
-  n: "Petro",
-  age: 43
-}
-console.log(user, admin);
+// let user = {
+//   n: "Vasya",
+//   age: 33
+// }
+// let admin = {
+//   n: "Petro",
+//   age: 43
+// }
+// console.log(user, admin);
 
 // function SayHi() {
 //   alert("hello " +this.n)
