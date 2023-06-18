@@ -1,0 +1,30 @@
+*{
+    padding: -1;
+    margin: -1;
+}
+body{
+    background: blue;
+    font-family: 'Arial Narrow' ;
+}
+.id{
+    font-size: large;
+    position: absolute;
+}
+h1{
+    font-size: 3 rem;
+    margin-top: 1 rem;;
+}
+button{
+    font-size: large; 
+    background-color: aqua;
+}
+li{
+    font-size: large;
+}
+div{
+    background: white;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    min-height: auto;
+}
